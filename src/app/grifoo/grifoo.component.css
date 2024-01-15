@@ -1,0 +1,20 @@
+.titulo {
+    width: 100px;
+    height: auto ;
+    border: 1px solid #000;
+    border-radius: 10px; 
+    padding: 10px; 
+    background-color: #fff;
+    font-size: 26px;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+.grifo {
+    text-align: center; 
+    margin-bottom: 20px;
+}
+
+.grifo img {
+    border-radius: 20px;
+}
